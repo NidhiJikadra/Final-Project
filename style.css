@@ -1,3 +1,11 @@
+input{
+        outline-color : rgba(36, 10, 185, 0.678);
+        outline-style: double;
+        color: white;
+}
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input::placeholder{
+    color: aliceblue;
 }
