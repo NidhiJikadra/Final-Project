@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "nidhi",
+      "email": "segsergv@gmail.com",
+      "mobileno": "8780990112",
+      "password": "nidhi12345",
+      "id": 1
+    },
+    {
+      "username": "vcsdcvsad",
+      "email": "krish55@gmail.com",
+      "mobileno": "8475238960",
+      "password": "nijcnauishdosw",
+      "id": 2
+    },
+    {
+      "username": "vcsdcvsad",
+      "email": "krish55@gmail.com",
+      "mobileno": "8475238960",
+      "password": "vcdasvfzaebafv",
+      "id": 3
+    },
+    {
+      "username": "nidhi",
+      "email": "segsergv@gmail.com",
+      "mobileno": "8780990112",
+      "password": "vcddsadxqwse",
+      "id": 4
+    }
+  ],
+  "blog": []
+}

@@ -6,6 +6,6 @@ input{
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-input::placeholder{
-    color: aliceblue;
+form input::placeholder{
+    color: white;
 }
